@@ -1,4 +1,4 @@
-# automated prompt evaluation framework using OpenAI GPT and SentenceTransformers
+# Automated prompt evaluation framework using OpenAI GPT and SentenceTransformers
 
 This is a simple automated prompt evaluation framework using OpenAI GPT and SentenceTransformers.
 
